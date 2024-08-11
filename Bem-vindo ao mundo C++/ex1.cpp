@@ -1,13 +1,11 @@
-/*
-* Criar um programa que exiba as informações abaixo:
+/* Criar um programa que exiba as informaÃ§Ãµes abaixo:
 Bem-vindo
 ao mundo
 do C++
 >Usando apenas um cout. 
->Para fazer isso, crie uma versão que utilize
+>Para fazer isso, crie uma versÃ£o que utilize
  apenas endl para saltar linhas
 */
-/*
 #include <iostream>
 using namespace std;
 int main()
@@ -15,4 +13,3 @@ int main()
 	cout << "Bem-vindo" << endl << "ao mundo" << endl << "do C++";
 	return 0;
 }
-*/
